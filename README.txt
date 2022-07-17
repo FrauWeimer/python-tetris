@@ -5,3 +5,5 @@ https://github.com/WISEPLAT/python-code/tree/master/python-igra-tetris
 
 I tweaked the game a bit for myself, choosing a different theme from my favorite anime,
 choosing a different font, game window size, and other backgrounds.
+
+Tetris game made on the topic "Death Note" in the Python programming language using the Tkinter library.
