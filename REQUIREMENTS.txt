@@ -1,0 +1,2 @@
+1. tkinter
+   pip install tk
